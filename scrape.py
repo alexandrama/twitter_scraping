@@ -8,8 +8,8 @@ import datetime
 
 # edit these three variables
 user = 'realdonaldtrump'
-start = datetime.datetime(2010, 1, 1)  # year, month, day
-end = datetime.datetime(2016, 12, 7)  # year, month, day
+start = datetime.datetime(2016, 4, 6)  # year, month, day
+end = datetime.datetime(2017, 4, 6)  # year, month, day
 
 # only edit these if you're having problems
 delay = 1  # time to wait on each page load before reading the page
